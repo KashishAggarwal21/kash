@@ -35,5 +35,4 @@
 
 
 
-//reverse array with extra space (2 pointer approach)
 
